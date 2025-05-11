@@ -1,8 +1,9 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm an enginnering student from MAIT,Delhi. Pursiung my B.Tech in Information Technology and Engineering.
+- 🔭 I’m currently working on a website that I'll post soon here.
+- 🌱 I’m currently learning full stack wed development and DSA in Java
+- 👯 I’m looking to collaborate in Hackathons!
+  - We can connect on wellcode8@gmail.com
 
 <!--
 **code-well0/code-well0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
