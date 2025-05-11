@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm an enginnering student from MAIT,Delhi. Pursiung my B.Tech in Information Technology and Engineering.
+I'm an enginnering student from MAIT, Delhi. Pursiung my B.Tech in Information Technology and Engineering.
 - 🔭 I’m currently working on a website that I'll post soon here.
 - 🌱 I’m currently learning full stack wed development and DSA in Java
 - 👯 I’m looking to collaborate in Hackathons!
