@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a website that I'll post soon here.<br>🌱 I’m currently learning full stack wed development and DSA in Java<br>👯 I’m looking to collaborate in Hackathons!<br>     - We can connect on wellcode8@gmail.com<br>
+🌱 I’m currently learning full stack web development and DSA in Java<br>👯 I’m looking to collaborate in Hackathons!<br>     - We can connect on wellcode8@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -12,13 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=code-well0&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-well0&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-well0&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-well0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=code-well0&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
