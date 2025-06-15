@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full stack web development and DSA in Java<br>👯 I’m looking to collaborate in Hackathons!<br>     - We can connect on wellcode8@gmail.com<br>
+🌱 I’m currently learning full stack web development and DSA in Java<br>👯 I’m looking to collaborate in Hackathons!<br>     - We can connect on shubralijain@gmail.com<br>
 
 
 ## 🌐 Socials:
