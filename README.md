@@ -14,7 +14,7 @@ I'm dedicated to writing clean, maintainable code and creating meaningful projec
 - **Collaboration**: Working effectively with teams to deliver great software
 
 ## 🛠 Tech Stack
-JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL • Prisma • Gemini •Tailwind •Machine Learning
+JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL • Prisma • Gemini •Python •Machine Learning •Java
 
 ## Github Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=code-well0&theme=default)
