@@ -15,7 +15,7 @@ I'm dedicated to writing clean, maintainable code and creating meaningful projec
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-well0&show_icons=true&theme=default&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-well0&show_icons=true&theme=default&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-well0&layout=compact&theme=default)
 
