@@ -13,11 +13,11 @@ I'm dedicated to writing clean, maintainable code and creating meaningful projec
 - **Problem Solving**: Tackling complex challenges with creative solutions
 - **Collaboration**: Working effectively with teams to deliver great software
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
+JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL • Prisma • OpenAI
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code-well0&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=code-well0&layout=compact&theme=default)
+## Github Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=code-well0&theme=default)
 
 ## 🤝 Let's Connect
 
