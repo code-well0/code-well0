@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer committed to building quality software and contributing to the open-source community.
 
-## About Me
-
-I'm dedicated to writing clean, maintainable code and creating meaningful projects that solve real-world problems. With a focus on continuous learning and collaboration, I strive to make an impact through technology.
-
 ## What I Do💻 
 
 - **Development**: Building applications with modern technologies
